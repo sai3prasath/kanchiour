@@ -1,1 +1,282 @@
+<resources>
+    <string name="app_name">Kanchi Tour</string>
+        <string name="title_name">Tour To KANCHIPURAM</string>
 
+        <string-array name="titles">
+            <item>Temples</item>
+            <item>Hospitals</item>
+            <item>Hotels</item>
+            <item>ATM</item>
+            <item>Police Stations</item>
+            <item>Residency</item>
+            <item>Fuel Station</item>
+            <item>Call Taxi</item>
+            <item>Trains</item>
+            <item>About</item>
+        </string-array>
+
+        <string name="about_temple"><b>About</b></string>
+        <string name="festivals"><b>Festivals</b></string>
+        <string name="timings"><b>Timings</b></string>
+        <string name="action_settings">Settings</string>
+        <string name="lang_title">Select from Language</string>
+        <string name="Kanchipuram">Kanchipuram</string>
+        <string-array name="lang">
+            <item>English</item>
+            <item>Tamil</item>
+        </string-array>
+        <string-array name="temples">
+            <item>ONAKKADHAN THALI TEMPLE</item>
+            <item>EKAMBARESWARAR TEMPLE</item>
+            <item>SRI PACHAI VANNA PERUMAL TEMPLE</item>
+            <item>SRI PAVALA VANNA PERUMAL TEMPLE</item>
+            <item>MUKTHEESWARAR TEMPLE</item>
+            <item>SRI ULAGALANDA PERUMAL TEMPLE</item>
+            <item>VAIKUNTA PERUMAL TEMPLE</item>
+            <item>SRI CHITRAGUPTA SWAMY TEMPLE</item>
+            <item>KUMARA KOTTAM SUBRAMANIYAR TEMPLE</item>
+            <item>JURAHARESWARAR TEMPLE</item>
+            <item>PANDAVAR PERUMAL TEMPLE</item>
+            <item>KAILASNATHA TEMPLE</item>
+            <item>THIRUMETRALINATHAR TEMPLE </item>
+            <item>VAZHAKARUTHEESWARAR TEMPLE</item>
+            <item>RANAMUDEESWARAR TEMPLE </item>
+            <item>VILAKOLI PERUMAL TEMPLE</item>
+            <item>THIRUVELUKKAI TEMPLE </item>
+            <item>SRI ASHTABUJAKARAM TEMPLE</item>
+            <item>SONNAVANNAM SEITHAPERUMAL TEMPLE </item>
+            <item>MANIGANDEESHWARA TEMPLE </item>
+            <item>PUNNIYAKODEESWARAR TEMPLE</item>
+            <item>SRI VARADARAJA PERUMAL TEMPLE</item>
+            <item>SATYANATHESHWARAR TEMPLE</item>
+            <item>SRI KANCHI KAMAKSHI AMMAN TEMPLE</item>
+            <item>SRI KACHABESHWARAR TEMPLE</item>
+            <item>HANUMAN TEMPLE</item>
+            <item>GURU TEMPLE</item>
+            <item>KARUKKINIL AMARNTHAVAL TEMPLE</item>
+            <item>"SANTHALEESWARAR TEMPLE"</item>
+        </string-array>
+        <string-array name="hospitals">
+            <item>GOVERMENT HOSPITAL</item>
+            <item>CANCER HOSPITAL</item>
+            <item>ABCD HOSPITAL</item>
+            <item>AGARWAL EYE HOSPITAL</item>
+            <item>VASAN EYE HOSPITAL</item>
+            <item>DENTISTREE DENTAL HOSPITAL</item>
+            <item>32 Dental Care</item>
+            <item>CSI HOSPITAL</item>
+            <item>VETERINARY HOSPITAL</item>
+            <item>SRI SAI SIDDHA CURE HOSPITAL</item>
+            <item>K.H HOSPITAL</item>
+            <item>LIFE CARE HOSPITAL</item>
+            <item>AYURVEDA HOSPITAL</item>
+        </string-array>
+        <string-array name="hotels">
+            <item>SAKTHI GANAPATHY</item>
+            <item>BABOO SURYA</item>
+            <item>SREE  SAKTHI HOTEL</item>
+            <item>SARVANA BHAVAN</item>
+            <item>DOMINOS PIZZA</item>
+            <item>EAT ME</item>
+            <item>ARABAAT</item>
+            <item>NALAS APPA KADAI</item>
+            <item>HOTEL TAMILNADU</item>
+            <item>MANNAR MILITARY HOTEL</item>
+            <item>HOTEL DESERT DRAGON</item>
+            <item>SARVANA BHAVAN</item>
+            <item>GRT</item>
+            <item>SAKTHI GANAPATHY</item>
+            <item>MUNIMA MESS</item>
+            <item>HOTEL  CHAKRA</item>
+            <item>ANNAI SURABI</item>
+            <item>HOTEL  AKSHYA</item>
+            <item>KANAGA VILAS</item>
+            <item>HOTEL A2B</item>
+            <item>HOTEL ABHIRAMI</item>
+            <item>KRISHNA VILAS</item>
+            <item>ITALIAN DELIGHT</item>
+            <item>SAKTHI GANAPATHY</item>
+            <item>SARVANA LUNCH HOME</item>
+            <item>TAHIRA</item>
+            <item>SAKTHI GANAPATHY</item>
+            <item>INDIAN COFFE HOUSE</item>
+            <item>HOTEL CHOLAS</item>
+            <item>HOTEL RAMANAS</item>
+        </string-array>
+        <string-array name="atm">
+            <item>ICICI</item>
+            <item>ICICI</item>
+            <item>SBI</item>
+            <item>DENA</item>
+            <item>INDIAN BANK</item>
+            <item>CANARA BANK</item>
+            <item>ICICI</item>
+            <item>SBI</item>
+            <item>CUB</item>
+            <item>KVB</item>
+            <item>INDICASH</item>
+            <item>IDBI</item>
+            <item>INDICASH</item>
+            <item>LLVB</item>
+            <item>SBI</item>
+            <item>HDFC</item>
+            <item>PNB</item>
+            <item>HDFC</item>
+            <item>LVB</item>
+            <item>IOS</item>
+            <item>AXIS</item>
+            <item>AXIS</item>
+            <item>CUB</item>
+            <item>TMB</item>
+            <item>IOB</item>
+            <item>ICICI</item>
+            <item>ICICI</item>
+            <item>ICICI</item>
+            <item>HDFC</item>
+            <item>ICICI</item>
+            <item>TMB</item>
+            <item>SBI</item>
+        </string-array>
+        <string-array name="fuels">
+            <item>BHARAT_01</item>
+            <item>BHARAT_02</item>
+            <item>HP_03</item>
+            <item>INDIAN _04</item>
+            <item>HP_05</item>
+            <item>BHARAT_06</item>
+            <item>HP_07</item>
+            <item>BHARAT_08</item>
+            <item>INDIAN OIL_09 </item>
+            <item>INDIAN OIL_10 </item>
+        </string-array>
+        <string-array name="polices">
+            <item>B2 POLICE STATION</item>
+            <item>B1 POLICE STATION</item>
+            <item>POLICE CONTROL ROOM</item>
+            <item>SUPERINDENDENT OF POLICE</item>
+        </string-array>
+        <string-array name="residency">
+            <item>ABIRAMI RESIDENCY</item>
+            <item>RAMAS LODGE</item>
+            <item>SILK CITY RESIDENCY</item>
+            <item>M.M HOTELS</item>
+            <item>KRISHNA LODGE</item>
+            <item>SIMLA</item>
+            <item>SHAKTHI RESIDENCY</item>
+            <item>RAJAM LODGE</item>
+            <item>RAMCO RESIDENCY</item>
+            <item>PINE TREE RESIDENCY</item>
+            <item>JAYABALA RESIDENCY</item>
+            <item>AKG LODGE</item>
+            <item>NALAN  LODGE</item>
+            <item>SSK RESIDENCY</item>
+            <item>SSK LODGE</item>
+            <item>HOTEL TAMILNADU</item>
+            <item>MOUSHIKA RESIDENCY</item>
+            <item>V.V LODGE</item>
+            <item>BABU SOORYA</item>
+            <item>GRT RESIDENCY</item>
+            <item>SRI HARI RESIDENCY</item>
+        </string-array>
+        <string-array name="taxis">
+            <item>R.S SON’S TRAVELS</item>
+            <item>KANCHI TRACK</item>
+            <item>SG CALL TAXI</item>
+            <item>VAISHANAVI TRAVELS</item>
+            <item>ROYAL FRIENDS CALL TAXI</item>
+            <item>FAST TRACK</item>
+        </string-array>
+        <string-array name="trains">
+            <item>Thirumalpur - Chennai Local</item>
+            <item>Thirumalpur - Chennai Fast</item>
+            <item>Thirumalpur - Chennai Local</item>
+            <item>Thirumalpur - Chennai Fast</item>
+            <item>Kanchipuram - Chennai Local</item>
+            <item>Thirumalpur - Chennai Local</item>
+            <item>Thirumalpur - Chennai Local</item>
+            <item>Thirumalpur - Chennai Local</item>
+            <item>Kanchipuram - Chennai Local</item>
+        </string-array>
+    <string-array name="train_timing">
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+        <item>Travelling Time:12.00 P.M. TO 1.30 P.M.</item>
+    </string-array>
+        <string-array name="title">
+            <item>Temples</item>
+            <item>Hospitals</item>
+            <item>Hotels</item>
+        </string-array>
+        <string name="about">Kanchipuram is one of the seven sacred cities in India. History proclaims that Kanchipuram was ruled by the Pallava Kings. The city is most famous for its silk production and old temples. The city is located on the Palar river. The city has all types of people from weavers to Vaishnavites. The city has many big temples like Sri Kamakshi Amman Temple, Sri Ekambaranthar Temple, Sri Varadaraja Perumal Temple, Sri Ulagalanda Perumal Temple, Sri Kumarakottam Temple, Sri Kailasanathar Temple, Sri Kachapeswarar Temple and much more. The city also attracts tourist and foreigners in plenty due to its rich culture and heritage. The city has a huge spree of Silk Weavers Society. The city is quite famous all over the world for its Silk Variety and Quality. There is huge demand for export of Silk saris within and outside India. There are many eminent scholars like C.N.Annadurai who were born in this city. The city has developed a niche for the industrial corridors for great giants like Nokia, Motorola, Hyundai and many other. The city also has hotels and restaurants for the comfort of tourist and foreigners. There is a very old Mutt established by Sri Adisankaracharya Called Sri Kanchi Kamakoti Peetam. This mutt is world renowned for its charitable activities and Institutions. There are also other Spiritual mutts within Kanchipuram.</string>
+        <string name="kanchi">About Kanchipuram</string>
+        <string-array name="temple_loc">
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram West</item>
+        </string-array>
+        <string-array name="hotels_loc">
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram West</item>
+            <item>Kanchipuram East</item>
+        </string-array>
+    </resources>

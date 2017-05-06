@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="temple_imgs">
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+        <item>@drawable/rsz_hsp1</item>
+    </integer-array>
+</resources>
